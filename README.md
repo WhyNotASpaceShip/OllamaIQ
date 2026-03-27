@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mis/ollamaIQmain.png" width="120" alt="OllamaIQ Logo">
+  <img src="mis/ollamaIQmain.webp" width="120" alt="OllamaIQ Logo">
 </p>
 
 
@@ -37,8 +37,8 @@
     <span style="display:inline-flex;align-items:center;gap:8px;padding:6px 10px;border-radius:999px;background:#ffffff;border:1px solid #eee;color:#333;font-weight:600">🗂️ History</span>
   </div>
 
-  <a href="mis/image.png" target="_blank">
-    <img src="mis/image.png" alt="Dashboard View" style="max-width:900px;width:100%;height:auto;border-radius:12px;border:1px solid #e6e6e6;box-shadow:0 10px 30px rgba(16,24,40,0.08)"/>
+  <a href="mis/image.webp" target="_blank">
+    <img src="mis/image.webp" alt="Dashboard View" style="max-width:900px;width:100%;height:auto;border-radius:12px;border:1px solid #e6e6e6;box-shadow:0 10px 30px rgba(16,24,40,0.08)"/>
   </a>
   <div style="margin-top:8px;color:#6b6b6b;font-size:0.95rem"><em>Dashboard overview</em></div>
 </div>
