@@ -283,6 +283,14 @@ def history():
         return render_template('history.html', runs=[], db_error=str(e))
     return render_template('history.html', runs=runs)
 
+@app.route('/api/total_history')
+def total_history():
+    try:
+        runs = db.list_runs()
+        total = len(runs)
+    except Exception as e:
+        return jsonify({'error': f'Database error: {e}'}), 500
+    return jsonify({'total': total})
 
 @app.route('/download/<int:run_id>')
 def download_run(run_id):
